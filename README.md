@@ -1,7 +1,7 @@
 # Data-structure
-Practice data structure algorithms
-
+자료구조 문제풀이 모음집입니다.
 <br>
-## 1. 배열 원소 삽입-삭제
-  - 배열 원소 삭제
-  - 배열 원소 삽입
+
+## 배열 원소 삽입-삭제
+- 배열 원소 삭제
+- 배열 원소 삽입
